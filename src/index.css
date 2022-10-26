@@ -1,0 +1,51 @@
+
+body {
+  margin: 0;
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+.card {
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+  width: center;
+  height: centers;
+  padding: 0px;
+  border-bottom: 10px;
+  background: #fff;
+  border-blocks: 10%;
+}
+
+
+.card ul {
+  list-style: none;
+  padding: 0;
+}
+
+.card ul li {
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.card ul li i {
+  margin-right: 10px;
+}
+
+.card button {
+  background: greenyellow;
+  border: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 500%;
+  cursor: pointer;
+  
+}
